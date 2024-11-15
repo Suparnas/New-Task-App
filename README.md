@@ -39,5 +39,5 @@
 ### Steps
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Suparnas/MyTaskApp.git
+   git clone [https://github.com/Suparnas/MyTaskApp.git](https://github.com/Suparnas/New-Task-App.git)
    cd MyTaskApp
